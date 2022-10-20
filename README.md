@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/aniketkumar7/aniketkumar7/blob/master/assets/208593.gif">
 </div>
