@@ -7,6 +7,8 @@
 
 ## Profile Views : 
   <img src="https://profile-counter.glitch.me/aniketkumar7/count.svg" />
+  
+### 🧐 More About Me:
 - 🔭 I’m currently working on **Web development projects**
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
@@ -16,7 +18,7 @@
 - 💬 Ask me about **CSS**
 
 - ⚡ Fun fact **I think I am very serious person.**
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/aniketkumar7/aniketkumar7/main/techstack.gif" width="360px"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
