@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate  🌐 frontend developer from India.I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. </h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/aniketkumar7/aniketkumar7/blob/master/assets/208593.gif">
@@ -18,7 +18,6 @@
 - 💬 Ask me about **CSS**
 
 - ⚡ Fun fact **I think I am very serious person.**
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/aniketkumar7/aniketkumar7/main/techstack.gif" width="360px"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
