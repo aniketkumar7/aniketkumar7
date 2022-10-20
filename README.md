@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **CSS**
 
-- ⚡ Fun fact **I think I am very serious person. No jokes and laugh pls.**
+- ⚡ Fun fact **I think I am very serious person.**
 
 
 
