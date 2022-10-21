@@ -44,9 +44,8 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=aniketkumar7&theme=redical)
 <br>
-<p align="center">
-   <img src="https://github.com/aniketkumar7/aniketkumar7/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
+
 <br/>
 <p align="center">
 	<a href="http://127.0.0.1:5500/portfolio.html" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
