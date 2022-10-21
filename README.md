@@ -9,6 +9,7 @@
   <br>
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/aniketkumar7/aniketkumar7/blob/master/assets/208593.gif">
 </div>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tarikmanoar.tarikmanoar)
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="relax.gif" />
 </p>
