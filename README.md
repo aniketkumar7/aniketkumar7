@@ -7,7 +7,7 @@
 
   <br><br><br>
 
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="350">
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="440" height="350">
 
 ## 🔥 Profile Views :
   <img src="https://profile-counter.glitch.me/aniketkumar7/count.svg"/>
