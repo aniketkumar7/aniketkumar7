@@ -5,7 +5,6 @@
 </p>
 <h3 align="center">A passionate  🌐 frontend developer from India.I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. </h3>
 
-<div align="center">
   <br>
 
 <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="350">
