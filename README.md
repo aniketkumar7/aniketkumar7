@@ -9,7 +9,9 @@
   <br>
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/aniketkumar7/aniketkumar7/blob/master/assets/208593.gif">
 </div>
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="relax.gif" />
+</p>
 <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="350">
 
 ## 🔥 Profile Views :
@@ -42,10 +44,10 @@
 <br/>
 
 <a href="https://github.com/aniketkumar7/github-readme-activity-graph"><img alt="aniketkumar7's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aniketkumar7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-![](https://activity-graph.herokuapp.com/graph?username=tarikmanoar&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=aniketkumar7&theme=redical)
 <br>
 <p align="center">
-  <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/aniketkumar7/aniketkumar7/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br/>
 <p align="center">
