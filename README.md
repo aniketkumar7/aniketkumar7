@@ -33,11 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketkumar7&show_icons=true&locale=en" alt="aniketkumar7" /></p>
 
 <!--Streak-->
-<p >
-  <a href="https://github.com/anjaliisingh1/github-readme-streak-stats">
-    <img title="Streak Stats 🔥" alt="aniketkumar7's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketkumar7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
+
 <br/>
 <br/>
 
