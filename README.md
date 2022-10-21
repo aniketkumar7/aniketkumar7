@@ -43,8 +43,8 @@
 <br/>
 
 ![](https://activity-graph.herokuapp.com/graph?username=aniketkumar7&theme=redical)
-<br>
-![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
+<br><br>
+![snake gif](https://github.com/aniketkumar7/aniketkumar7/blob/output/github-contribution-grid-snake.gif)
 
 <br/>
 <p align="center">
