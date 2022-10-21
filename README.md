@@ -16,13 +16,13 @@
   <img src="https://profile-counter.glitch.me/aniketkumar7/count.svg"/>
   
 ###  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> More About Me:
-- 🔭 I’m currently working on **Web development projects** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m currently working on **Web development projects.**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+- 🌱 I’m currently learning **Data Structure and Algorithm.**
 
-- 👯 I’m looking to collaborate on **open sources**
+- 👯 I’m looking to collaborate on **open sources.**
 
-- 💬 Ask me about **CSS**
+- 💬 Ask me about **CSS.**
 
 - ⚡ Fun fact **I think I am very serious person.** 
  
@@ -35,7 +35,7 @@
 </div>
 <br>
 	
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><h3 align="left">Languages and Tools:</h3><br>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><h3 >Languages and Tools:</h3><br>
 
  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
