@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
+<br><br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 <h3 align="center">A passionate  🌐 frontend developer from India.I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. </h3>
 
 <div align="center">
@@ -34,5 +38,13 @@
 <a href="https://github.com/aniketkumar7/github-readme-activity-graph"><img alt="aniketkumar7's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aniketkumar7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
+<p align="center">
+	<a href="http://127.0.0.1:5500/portfolio.html" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/aniketkumar7/aniketkumar7" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/aniket-kumar-a850a122b" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/aniketrajput_007/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="aniketkumar639597@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
