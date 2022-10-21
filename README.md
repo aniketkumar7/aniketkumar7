@@ -10,7 +10,7 @@
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/aniketkumar7/aniketkumar7/blob/master/assets/208593.gif">
 </div>
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="350">
 ## Profile Views : 
   <img src="https://profile-counter.glitch.me/aniketkumar7/count.svg"/>
   
