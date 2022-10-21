@@ -7,11 +7,7 @@
 
 <div align="center">
   <br>
-<br />
 
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="relax.gif" />
-</p>
 <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="350">
 
 ## 🔥 Profile Views :
