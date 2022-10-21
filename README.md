@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
 <br>
 <p align="center">
@@ -21,8 +25,7 @@
 
 - 💬 Ask me about **CSS**
 
-- ⚡ Fun fact **I think I am very serious person.**
-- <br>
+- ⚡ Fun fact **I think I am very serious person.** <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
