@@ -10,7 +10,7 @@
 
   <br><br><br>
 
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="440" height="350">
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="460" height="360">
 
 ## 🔥 Profile Views :
   <img src="https://profile-counter.glitch.me/aniketkumar7/count.svg"/>
@@ -25,12 +25,11 @@
 - 💬 Ask me about **CSS**
 
 - ⚡ Fun fact **I think I am very serious person.** 
-
-- 
+ 
  <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 ---
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+###<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 <div>
 <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketkumar7&theme=radical" alt="aniketkumar7" />
 <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=aniketkumar7&show_icons=true&locale=en&theme=radical" alt="aniketkumar7" />
@@ -48,8 +47,8 @@
 <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
 
-
-<summary><b>🏆 Github Achievements</b></summary><br>
+<br>
+<summary><b>🏆 <h3>Github Achievements</h3></b></summary><br>
 <p align="center"> <a href="https://github.com/tarikmanoar"><img src="https://github-profile-trophy.vercel.app/?username=aniketkumar7&margin-w=5&theme=radical" alt="aniketkumar7" /></a> </p>
 
 <br>
@@ -73,7 +72,7 @@
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
