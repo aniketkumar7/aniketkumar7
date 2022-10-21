@@ -45,7 +45,7 @@
 ![](https://activity-graph.herokuapp.com/graph?username=aniketkumar7&theme=redical)
 <br>
 <p align="center">
-   <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+   <img src="https://github.com/aniketkumar7/aniketkumar7/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br/>
 <p align="center">
