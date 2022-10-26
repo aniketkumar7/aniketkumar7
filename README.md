@@ -24,6 +24,8 @@
 
 - 💬 Ask me about **CSS.**
 
+- 📫 How to reach me **aniketkumar639597@gmail.com**
+
 - ⚡ Fun fact **I think I am very serious person.** 
  
  <br>
@@ -41,10 +43,9 @@
  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
- <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-<code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
-<code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+ <code><a href = "https://code.visualstudio.com/"><img height="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
+ <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
 
 <br>
 <summary><b>🏆 <h3>Github Achievements</h3></b></summary><br>
@@ -56,6 +57,22 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=aniketkumar7&theme=redical)
 <br><br>
+ ## <img src="images.gif" width="30px"> Coding Profiles :
+<p align="left" >
+ <a href="https://www.hackerrank.com/aniketkumar63951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniketkumar63951" height="30" width="40" /></a>
+<a href="https://leetcode.com/aniketkumar639597/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniketkumar639597/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aniketkumaj0fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketkumaj0fl" height="30" width="40" /></a>
+<br>
+```python
+Interests = ["Coding", "Problem Solving", "Graphic Editing", "Photography", "Exploring various OS :)"]
+Languages = ["C", "C++", "Python", "HTML", "CSS"]
+```
+<br>
+<div align=center>
+  
+[![coding speed x 1000](/187495.gif)](https://github.com/ankitmalik84/webtec/blob/main)
+</div>	
+	
 ![snake gif](https://github.com/aniketkumar7/aniketkumar7/blob/output/github-contribution-grid-snake.gif)
 
 <br/>
