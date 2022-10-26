@@ -10,10 +10,12 @@
 
   <br><br><br>
 
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="460" height="360">
+
 
 ## 🔥 Profile Views :
   <img src="https://profile-counter.glitch.me/aniketkumar7/count.svg"/>
+  
+  <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="460" height="360">
   
 ###  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> More About Me:
 - 🔭 I’m currently working on **Web development projects.**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
