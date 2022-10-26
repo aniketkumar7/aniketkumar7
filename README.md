@@ -6,11 +6,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
-<h3 align="center">A passionate  🌐 frontend developer from India.I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. </h3>
+<h3 align="center">A passionate  🌐 frontend developer from India. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. </h3>
 
-  <br><br><br>
-
-
+  <br><br>
 
 ## 🔥 Profile Views :
   <img src="https://profile-counter.glitch.me/aniketkumar7/count.svg"/>
