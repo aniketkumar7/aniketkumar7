@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on **open sources.**
 
-- 💬 Ask me about **CSS.**
+- 💬 Ask me about **HTML, CSS.**
 
 - 📫 How to reach me **aniketkumar639597@gmail.com**
 
