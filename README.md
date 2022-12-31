@@ -60,7 +60,7 @@
  <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
 <br><br>
 	<br>
-<summary><b>🏆 <h3>Github Achievements</h3></b></summary><br>
+<summary><b>🏆 <h3>Github Achievements</h3></b></summary>
 <p align="left"> <a href="https://github.com/tarikmanoar"><img src="https://github-profile-trophy.vercel.app/?username=aniketkumar7&margin-w=5&theme=radical" alt="aniketkumar7" /></a> </p>
 <details open="">
 <summary>
@@ -104,7 +104,7 @@
 	<br>
 	<br>
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github.com/aniketkumar7/UtkarshPathrabe/blob/main/assets/sunrise.jpeg?raw=true" alt="utkarshpathrabe" />
+    <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/sunrise.jpeg?raw=true" alt="utkarshpathrabe" />
 </p>
 <br>
 <br>
