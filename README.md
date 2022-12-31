@@ -61,7 +61,6 @@
 <br>
 <summary><b>🏆 <h3>Github Achievements</h3></b></summary><br>
 <p align="left"> <a href="https://github.com/tarikmanoar"><img src="https://github-profile-trophy.vercel.app/?username=aniketkumar7&margin-w=5&theme=radical" alt="aniketkumar7" /></a> </p>
-<br>
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -77,12 +76,6 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=aniketkumar7&theme=redical)
 <br><br>
- ## 🚀  Coding Profiles :
-<p align="left" >
- <a href="https://www.hackerrank.com/aniketkumar63951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniketkumar63951" height="70" width="80" /></a>
-<a href="https://leetcode.com/aniketkumar639597/" target="blank"><img align="center" src="" alt="aniketkumar639597/" height="60" width="70" /></a>
-
-<br>
 <br>
 		
 <h4 align="center">
@@ -113,13 +106,7 @@
 
 <br/>	
 <h2> Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p align="center">
-	<a href="https://github.com/aniketkumar7/aniketkumar7" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/aniket-kumar-a850a122b" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/aniketrajput_007/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<p align="center" style='margin: 16px 4px 8px;'>
-    
+<p align="center" style='margin: 16px 4px 8px;'>    
     <a href="mailto:aniketkumar639597@gmail.com" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:aniketkumar639597@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
