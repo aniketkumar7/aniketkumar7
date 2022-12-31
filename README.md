@@ -33,7 +33,7 @@
  
  <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-<h2> Github Status <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<br>
 <div>
 	<p align="center">
   <img height="150" width="150" src="https://raw.githubusercontent.com/aniketkumar7/JayantGoel001/master/WEBP/left.webp">
@@ -43,9 +43,9 @@
 
 <br>
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
-<br/>	
+<br/>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+<h3 align="center" style='margin: 4px 4px 8px; font-size: 24px;'>
     Languages and Tools:
 </h3>
 
@@ -58,13 +58,15 @@
  <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
 
 <br>
+<br>
+<br>
 <summary><b>🏆 <h3>Github Achievements</h3></b></summary><br>
 <p align="center"> <a href="https://github.com/tarikmanoar"><img src="https://github-profile-trophy.vercel.app/?username=aniketkumar7&margin-w=5&theme=radical" alt="aniketkumar7" /></a> </p>
 <br>
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+  <h2> Github Status <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 </summary>
 <br/>
 
@@ -85,9 +87,7 @@
 <a href="https://auth.geeksforgeeks.org/user/aniketkumaj0fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketkumaj0fl" height="30" width="40" /></a>
 <br>
 <br>
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=aniketkumar7&theme=react-dark&hide_border=true&area=true)
-	
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)	
+		
 <h4 align="center">
   
 ```diff
@@ -113,7 +113,6 @@
 ```
 
 </h4>
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
 <br/>	
 <h2> Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
