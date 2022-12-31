@@ -12,7 +12,7 @@
 <h3 align="center">A passionate  🌐 frontend developer from India. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. </h3>
 
   <br><h3 align='center' style='margin: 16px 4px;'>
-    <a href='http://127.0.0.1:5500/portfolio.html'>My Portfolio Website</a>
+    <a href='http://127.0.0.1:5500/portfolio.html' target="blank">My Portfolio Website</a>
 </h3><br>
 
 ## 🔥 Profile Views :
@@ -75,61 +75,36 @@
 </details>
 
 ![](https://activity-graph.herokuapp.com/graph?username=aniketkumar7&theme=redical)
-<br><br>
 <br>
-		
-<h4 align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-</h4>
-
+![footer](https://raw.githubusercontent.com/aniketkumar7/JayantGoel001/master/WEBP/footer.webp)
 <br/>	
 <h2> Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center" style='margin: 16px 4px 8px;'>    
     <a href="mailto:aniketkumar639597@gmail.com" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:aniketkumar639597@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:aniketkumar639597@gmail.com" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://www.linkedin.com/in/aniket-kumar-a850a122b" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://instagram.com/utkarsh_pathrabe" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/utkarsh_pathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://www.instagram.com/aniketrajput_007/" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/aniketrajput_007/" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="www.youtube.com" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="https://www.youtube.com/c/aniketkumar" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://www.youtube.com/channel/UCcvpwbwfY5pkTSV7cjtehJw" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="https://www.youtube.com/c/aniketkumar" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://www.hackerrank.com/aniketkumar63951" target="blank" rel="noreferrer">
-        <img align="center" src="https://camo.githubusercontent.com/fcc6b088b944fd2b90b090d36e646810dd80d4b474e710bc915cbd6f26064d7b/68747470733a2f2f7374617469632d666173746c792e6861636b657265617274682e636f6d2f6e6577746f6e2f70726f64756374696f6e2f7374617469632f696d616765732f686f6d657061676576322f68655f6c6f676f2e737667" alt="https://www.hackerrank.com/aniketkumar63951" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://camo.githubusercontent.com/fcc6b088b944fd2b90b090d36e646810dd80d4b474e710bc915cbd6f26064d7b/68747470733a2f2f7374617469632d666173746c792e6861636b657265617274682e636f6d2f6e6577746f6e2f70726f64756374696f6e2f7374617469632f696d616765732f686f6d657061676576322f68655f6c6f676f2e737667" alt="https://www.hackerrank.com/aniketkumar63951" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://leetcode.com/aniketkumar639597/" target="blank" rel="noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.leetcode.com/aniketkumar639597/" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-<a href="https://auth.geeksforgeeks.org/user/aniketkumaj0fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketkumaj0fl" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" ></a>
+<a href="https://auth.geeksforgeeks.org/user/aniketkumaj0fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketkumaj0fl" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" ></a>
 </p>
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github.com/aniketkumar7/UtkarshPathrabe/blob/main/assets/sunrise.jpeg?raw=true" alt="utkarshpathrabe" />
 </p>
+<br>
+<br>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
