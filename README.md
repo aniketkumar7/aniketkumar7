@@ -45,7 +45,7 @@
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
 <br/>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-<h3 align="center" style=' font-size: 24px;'>
+<h3 style=' font-size: 24px;'>
     Languages and Tools:
 </h3>
 
@@ -56,9 +56,6 @@
   <code><a href = "https://code.visualstudio.com/"><img height="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
  <code><a href = "https://www.python.org"><img height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
  <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
-
-<br>
-<br>
 <br>
 <summary><b>🏆 <h3>Github Achievements</h3></b></summary><br>
 <p align="left"> <a href="https://github.com/tarikmanoar"><img src="https://github-profile-trophy.vercel.app/?username=aniketkumar7&margin-w=5&theme=radical" alt="aniketkumar7" /></a> </p>
@@ -82,9 +79,9 @@
 <br><br>
  ## 🚀  Coding Profiles :
 <p align="left" >
- <a href="https://www.hackerrank.com/aniketkumar63951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniketkumar63951" height="30" width="40" /></a>
-<a href="https://leetcode.com/aniketkumar639597/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniketkumar639597/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aniketkumaj0fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketkumaj0fl" height="30" width="40" /></a>
+ <a href="https://www.hackerrank.com/aniketkumar63951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniketkumar63951" height="50" width="60" /></a><br>
+<a href="https://leetcode.com/aniketkumar639597/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniketkumar639597/" height="50" width="60" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aniketkumaj0fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketkumaj0fl" height="50" width="60" /></a>
 <br>
 <br>
 		
