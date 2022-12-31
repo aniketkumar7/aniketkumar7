@@ -11,7 +11,9 @@
 </p>
 <h3 align="center">A passionate  🌐 frontend developer from India. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. </h3>
 
-  <br><br>
+  <br><h3 align='center' style='margin: 16px 4px;'>
+    <a href='http://127.0.0.1:5500/portfolio.html'>My Portfolio Website</a>
+</h3><br>
 
 ## 🔥 Profile Views :
   <img src="https://profile-counter.glitch.me/aniketkumar7/count.svg"/>
@@ -42,7 +44,7 @@
 </p>
 
 <br>
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+<img align="left" height="350px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
 <br/>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 <h3 style=' font-size: 24px;'>
@@ -72,16 +74,14 @@
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketkumar7&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
-<br/>
-<br/>
 
 ![](https://activity-graph.herokuapp.com/graph?username=aniketkumar7&theme=redical)
 <br><br>
  ## 🚀  Coding Profiles :
 <p align="left" >
- <a href="https://www.hackerrank.com/aniketkumar63951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniketkumar63951" height="50" width="60" /></a><br>
-<a href="https://leetcode.com/aniketkumar639597/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniketkumar639597/" height="50" width="60" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aniketkumaj0fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketkumaj0fl" height="50" width="60" /></a>
+ <a href="https://www.hackerrank.com/aniketkumar63951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniketkumar63951" height="70" width="80" /></a>
+<a href="https://leetcode.com/aniketkumar639597/" target="blank"><img align="center" src="" alt="aniketkumar639597/" height="60" width="70" /></a>
+
 <br>
 <br>
 		
@@ -114,16 +114,35 @@
 <br/>	
 <h2> Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center">
-	<a href="http://127.0.0.1:5500/portfolio.html" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/aniketkumar7/aniketkumar7" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/aniket-kumar-a850a122b" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/aniketrajput_007/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<p align="center" style='margin: 16px 4px 8px;'>
+    
+    <a href="mailto:aniketkumar639597@gmail.com" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:aniketkumar639597@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/aniket-kumar-a850a122b" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://instagram.com/utkarsh_pathrabe" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/utkarsh_pathrabe" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="www.youtube.com" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="https://www.youtube.com/c/aniketkumar" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.hackerrank.com/aniketkumar63951" target="blank" rel="noreferrer">
+        <img align="center" src="https://camo.githubusercontent.com/fcc6b088b944fd2b90b090d36e646810dd80d4b474e710bc915cbd6f26064d7b/68747470733a2f2f7374617469632d666173746c792e6861636b657265617274682e636f6d2f6e6577746f6e2f70726f64756374696f6e2f7374617469632f696d616765732f686f6d657061676576322f68655f6c6f676f2e737667" alt="https://www.hackerrank.com/aniketkumar63951" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://leetcode.com/aniketkumar639597/" target="blank" rel="noreferrer">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.leetcode.com/aniketkumar639597/" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+<a href="https://auth.geeksforgeeks.org/user/aniketkumaj0fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketkumaj0fl" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" ></a>
 </p>
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<p align="center">
-
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github.com/aniketkumar7/UtkarshPathrabe/blob/main/assets/sunrise.jpeg?raw=true" alt="utkarshpathrabe" />
+</p>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
