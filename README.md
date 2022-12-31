@@ -1,3 +1,6 @@
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="https://github.com/aniketkumar7/UtkarshPathrabe/blob/main/assets/greetings.gif?raw=true" alt="Hello World" />
+</p>
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
