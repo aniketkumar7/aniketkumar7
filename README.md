@@ -36,9 +36,9 @@
 <h2> Github Status <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div>
 	<p align="center">
-  <img height="150" width="150" src="[WEBP/left.webp](https://raw.githubusercontent.com/aniketkumar7/JayantGoel001/master/WEBP/left.webp)">
+  <img height="150" width="150" src="[[WEBP/left.webp](https://raw.githubusercontent.com/aniketkumar7/JayantGoel001/master/WEBP/left.webp)](https://raw.githubusercontent.com/aniketkumar7/JayantGoel001/master/WEBP/left.webp)">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="[WEBP/right.webp](https://raw.githubusercontent.com/aniketkumar7/JayantGoel001/master/WEBP/right.webp)">
+  <img height="150" width="150" src="[[WEBP/right.webp](https://raw.githubusercontent.com/aniketkumar7/JayantGoel001/master/WEBP/right.webp)](https://raw.githubusercontent.com/aniketkumar7/JayantGoel001/master/WEBP/right.webp)">
 </p>
 
 <br>
@@ -81,6 +81,8 @@
 <a href="https://leetcode.com/aniketkumar639597/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniketkumar639597/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aniketkumaj0fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketkumaj0fl" height="30" width="40" /></a>
 <br>
+<br>
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
 <h2> Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center">
 	<a href="http://127.0.0.1:5500/portfolio.html" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
