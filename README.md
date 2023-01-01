@@ -38,9 +38,9 @@
 <br>
 <div>
 	<p align="center">
-  <img height="150" width="150" src="https://raw.githubusercontent.com/aniketkumar7/JayantGoel001/master/WEBP/left.webp">
+  <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketkumar7&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://raw.githubusercontent.com/aniketkumar7/JayantGoel001/master/WEBP/right.webp">
+  <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp">
 </p>
 
 <br>
