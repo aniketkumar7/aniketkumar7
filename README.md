@@ -77,7 +77,7 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=aniketkumar7&theme=redical)
 <br>
-![footer](https://raw.githubusercontent.com/aniketkumar7/JayantGoel001/master/WEBP/footer.webp)
+![footer](https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/footer.webp)
 <br/>	
 <h2> Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center" style='margin: 16px 4px 8px;'>    
