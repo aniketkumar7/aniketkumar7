@@ -83,24 +83,24 @@
 <h2> Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center" style='margin: 16px 4px 8px;'>    
     <a href="mailto:aniketkumar639597@gmail.com" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:aniketkumar639597@gmail.com" height="60" width="60" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:aniketkumar639597@gmail.com" height="55" width="55" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://www.linkedin.com/in/aniket-kumar-a850a122b" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="60" width="60" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="55" width="55" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 4px; padding: 4px;" />
     </a>
     <a href="https://www.instagram.com/aniketrajput_007/" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/aniketrajput_007/" height="60" width="60" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/aniketrajput_007/" height="55" width="55" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://www.youtube.com/channel/UCcvpwbwfY5pkTSV7cjtehJw" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="https://www.youtube.com/c/aniketkumar" height="60" width="60" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="https://www.youtube.com/c/aniketkumar" height="55" width="55" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://www.hackerrank.com/aniketkumar63951" target="blank" rel="noreferrer">
-        <img align="center" src="https://camo.githubusercontent.com/fcc6b088b944fd2b90b090d36e646810dd80d4b474e710bc915cbd6f26064d7b/68747470733a2f2f7374617469632d666173746c792e6861636b657265617274682e636f6d2f6e6577746f6e2f70726f64756374696f6e2f7374617469632f696d616765732f686f6d657061676576322f68655f6c6f676f2e737667" alt="https://www.hackerrank.com/aniketkumar63951" height="60" width="60" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://camo.githubusercontent.com/fcc6b088b944fd2b90b090d36e646810dd80d4b474e710bc915cbd6f26064d7b/68747470733a2f2f7374617469632d666173746c792e6861636b657265617274682e636f6d2f6e6577746f6e2f70726f64756374696f6e2f7374617469632f696d616765732f686f6d657061676576322f68655f6c6f676f2e737667" alt="https://www.hackerrank.com/aniketkumar63951" height="55" width="55" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://leetcode.com/aniketkumar639597/" target="blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.leetcode.com/aniketkumar639597/" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.leetcode.com/aniketkumar639597/" height="45" width="45" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-<a href="https://auth.geeksforgeeks.org/user/aniketkumaj0fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketkumaj0fl" height="60" width="60" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" ></a>
+<a href="https://auth.geeksforgeeks.org/user/aniketkumaj0fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketkumaj0fl" height="55" width="55" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" ></a>
 </p>
 	<br>
 	<br>
