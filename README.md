@@ -83,10 +83,10 @@
 <h2> Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center" style='margin: 16px 4px 8px;'>    
     <a href="mailto:aniketkumar639597@gmail.com" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:aniketkumar639597@gmail.com" height="55" width="55" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:aniketkumar639597@gmail.com" height="55" width="55" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 5px;" />
     </a>
     <a href="https://www.linkedin.com/in/aniket-kumar-a850a122b" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="55" width="55" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 5px 4px; padding: 4px;" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="55" width="55" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 4px; padding: 5px;" />
     </a>
     <a href="https://www.instagram.com/aniketrajput_007/" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/aniketrajput_007/" height="55" width="55" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
