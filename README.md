@@ -98,7 +98,7 @@
         <img align="center" src="https://camo.githubusercontent.com/fcc6b088b944fd2b90b090d36e646810dd80d4b474e710bc915cbd6f26064d7b/68747470733a2f2f7374617469632d666173746c792e6861636b657265617274682e636f6d2f6e6577746f6e2f70726f64756374696f6e2f7374617469632f696d616765732f686f6d657061676576322f68655f6c6f676f2e737667" alt="https://www.hackerrank.com/aniketkumar63951" height="55" width="55" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://leetcode.com/aniketkumar639597/" target="blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.leetcode.com/aniketkumar639597/" height="45" width="45" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.leetcode.com/aniketkumar639597/" height="45" width="45" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 5px;" />
     </a>
 <a href="https://auth.geeksforgeeks.org/user/aniketkumaj0fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketkumaj0fl" height="55" width="55" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" ></a>
 </p>
