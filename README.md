@@ -10,7 +10,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front+End+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <h3 align="center">I am an undergraduate student pursuing my BTech at MIET, Meerut. A passionate  🌐 frontend developer from India. I like solving competitive coding problems, exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. </h3>
-
+<p align="center" style='margin: 16px 4px 8px;'>
+    <img src="https://komarev.com/ghpvc/?username=utkarshpathrabe&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
+</p>
   <br><h3 align='center' style='margin: 16px 4px;'>
     <a href='http://127.0.0.1:5500/portfolio.html' target="blank">My Portfolio Website</a>
 </h3><br>
@@ -61,8 +63,11 @@
 <br><br>
 	<br>
 <summary><b>🏆 <h3>Github Achievements</h3></b></summary>
-<p align="left"> <a href="https://github.com/tarikmanoar"><img src="https://github-profile-trophy.vercel.app/?username=aniketkumar7&margin-w=5&theme=radical" alt="aniketkumar7" /></a> </p>
-<details open="">
+<p align="center" style='margin: 16px 4px 8px;'>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=aniketkumar7&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
+    </a>
+</p>
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <h2> Github Status <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
