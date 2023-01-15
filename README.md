@@ -63,7 +63,7 @@
 <br><br>
 	<br>
 <summary><b>🏆 <h3>Github Achievements</h3></b></summary>
-<p align="center" style='margin: 10px;'>
+<p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=aniketkumar7&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
     </a>
