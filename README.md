@@ -85,7 +85,7 @@
 ![footer](https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/footer.webp)
 <br/><br><br/>	
 	
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aniketkumar&theme=react-dark)](https://github.com/aniketkumar7/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&theme=merko)](https://github.com/aniketkumar7/github-readme-activity-graph)
 	
 <h2> Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center" style='margin: 16px 4px 8px;'>    
