@@ -84,8 +84,8 @@
 
 ![footer](https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/footer.webp)
 <br/><br><br/>	
-![Profile Stats](https://activity-graph.herokuapp.com/graph?username=aniketkumar7&theme=chartreuse-dark)	
-[![Kaiwalya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aniketkumar7&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/aniketkumar7/github-readme-activity-graph)
+	
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aniketkumar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 	
 <h2> Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center" style='margin: 16px 4px 8px;'>    
