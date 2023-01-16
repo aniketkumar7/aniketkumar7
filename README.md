@@ -10,9 +10,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front+End+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <h3 align="center">I am an undergraduate student pursuing my BTech at MIET, Meerut. A passionate  🌐 frontend developer from India. I like solving competitive coding problems, exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. </h3>
-<p align="center" style='margin: 16px 4px 8px;'>
-    <img src="https://komarev.com/ghpvc/?username=aniketkumar7&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
-</p>
   <br><h3 align='center' style='margin: 16px 4px;'>
     <a href='http://127.0.0.1:5500/portfolio.html' target="blank">My Portfolio Website</a>
 </h3><br>
