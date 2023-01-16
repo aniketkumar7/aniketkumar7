@@ -43,14 +43,13 @@
 </p>
 
 <br>
-	<img width="300px" align="right" height="350px" alt="Github" src="https://github.com/akshatmittal61/akshatmittal61/blob/master/src/images/alone.png?raw=true" />
+	<img width="320px" align="right" height="400px" alt="Github" src="https://github.com/akshatmittal61/akshatmittal61/blob/master/src/images/alone.png?raw=true" />
 
 <br/>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+<summary><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 <h3 style=' font-size: 24px;'>
     Languages and Tools:
-</h3>
-
+	</h3></summary><br>
  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
@@ -59,10 +58,10 @@
  <code><a href = "https://www.python.org"><img height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
  <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
 <br><br>
-<summary><b>🏆 <h3>Github Achievements</h3></b></summary>
-<p align="left">
+	<summary><b>🏆 <h3>Github Achievements</h3></b></summary>
+<p align="left" style='padding: -35px;' >
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=aniketkumar7&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
+        <img src="https://github-profile-trophy.vercel.app/?username=aniketkumar7&theme=gruvbox&column=6&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
     </a>
 </p>
 <summary>
@@ -72,7 +71,7 @@
 <br/>
 
 <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketkumar7&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="aniketkumar7e" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketkumar7&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="aniketkumar7" />
 </p>
    <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-stats.vercel.app/api?username=aniketkumar7&show_icons=true&locale=en&theme=gruvbox" alt="aniketkumar7" />
