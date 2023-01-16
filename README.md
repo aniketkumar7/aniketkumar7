@@ -43,7 +43,7 @@
 </p>
 
 <br>
-	<img width="300px" align="left" height="350px" alt="Github" src="https://github.com/akshatmittal61/akshatmittal61/blob/master/src/images/alone.png?raw=true" />
+	<img width="300px" align="right" height="350px" alt="Github" src="https://github.com/akshatmittal61/akshatmittal61/blob/master/src/images/alone.png?raw=true" />
 
 <br/>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
@@ -61,7 +61,7 @@
 <br><br>
 	<br>
 <summary><b>🏆 <h3>Github Achievements</h3></b></summary>
-<p align="right">
+<p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=aniketkumar7&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
     </a>
