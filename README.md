@@ -72,10 +72,10 @@
 	
 <span>
 <p align="center" style='margin: 8px 4px;'>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketkumar7&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10"  width="600px" alt="aniketkumar7" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketkumar7&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10"  width="500px" alt="aniketkumar7" />
 </p>
    <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=aniketkumar7&show_icons=true&locale=en&theme=gruvbox" width="600px" alt="aniketkumar7" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aniketkumar7&show_icons=true&locale=en&theme=gruvbox" width="500px" alt="aniketkumar7" />
 </p>
 </span>
 </details><br><br/>
