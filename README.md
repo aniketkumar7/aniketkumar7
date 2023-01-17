@@ -43,7 +43,7 @@
 </p>
 
 <br>
-	<img width="320px" align="right" height="400px" alt="Github" src="https://github.com/akshatmittal61/akshatmittal61/blob/master/src/images/alone.png?raw=true" />
+	<img width="310px" align="right" height="380px" alt="Github" src="https://github.com/akshatmittal61/akshatmittal61/blob/master/src/images/alone.png?raw=true" />
 
 <br/>
 <summary><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
@@ -70,13 +70,14 @@
 </summary>
 <br/>
 	
-
-<p align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketkumar7&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="aniketkumar7" />
+<span>
+<p align="center" style='margin: 8px 4px;'>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketkumar7&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10"  width="600px" alt="aniketkumar7" />
 </p>
    <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=aniketkumar7&show_icons=true&locale=en&theme=gruvbox" alt="aniketkumar7" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aniketkumar7&show_icons=true&locale=en&theme=gruvbox" width="600px" alt="aniketkumar7" />
 </p>
+</span>
 </details><br><br/>
 
 ![footer](https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/footer.webp)
