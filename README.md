@@ -42,7 +42,7 @@
 </p>
 
 <br>
-	<img width="260px" align="right" height="340px" alt="Github" src="https://github.com/akshatmittal61/akshatmittal61/blob/master/src/images/alone.png?raw=true" />
+<img width="260px" align="right" height="340px" alt="Github" src="https://github.com/akshatmittal61/akshatmittal61/blob/master/src/images/alone.png?raw=true" />
 
 <br/>
 <summary><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
