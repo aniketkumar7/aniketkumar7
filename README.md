@@ -41,7 +41,6 @@
   <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp">
 </p>
 
-<br>
 <img width="260px" align="right" height="340px" alt="Github" src="https://github.com/akshatmittal61/akshatmittal61/blob/master/src/images/alone.png?raw=true" />
 
 <br/>
