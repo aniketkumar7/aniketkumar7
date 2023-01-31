@@ -77,15 +77,22 @@
 </span>
 </details><br><br/>
 
+
+
 ![footer](https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/footer.webp)
 <br/><br><br/>	
 	
+	
+	
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aniketkumar7&theme=merko)](https://github.com/aniketkumar7/github-readme-activity-graph)
 	
+	
+	
 <h2> Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p align="center" style='margin: 16px 4px 8px;'>    
+
+<p align="center" style='margin: 16px 4px 8px;'>  
     <a href="mailto:aniketkumar639597@gmail.com" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:aniketkumar639597@gmail.com" height="55" width="55" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 5px;" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:aniketkumar639597@gmail.com" height="55" width="55" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 5px;" />
     </a>
     <a href="https://www.linkedin.com/in/aniket-kumar-a850a122b" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="55" width="55" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 4px; padding: 5px;" />
