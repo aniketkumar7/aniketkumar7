@@ -35,15 +35,16 @@
 <br>
 <br>
 <div>
-	<p align="center">
+  <p align="center">
   <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketkumar7&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp">
 </p>
-
 <br/>
 <summary><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 <h3 style=' font-size: 24px;'>
+	
+	
  #  Languages and Tools:
 	</h3></summary><br>
  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
