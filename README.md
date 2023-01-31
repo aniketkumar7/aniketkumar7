@@ -1,4 +1,4 @@
-<p align='center' style='margin: 16px 4px 8px;'>
+<p align='center' style='margin: 16px 5px 8px;'>
     <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/greetings.gif?raw=true" alt="Hello World" />
 </p>
 <p align="center">
