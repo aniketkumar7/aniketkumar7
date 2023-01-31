@@ -41,8 +41,6 @@
   <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp">
 </p>
 
-<img width="260px" align="right" height="340px" alt="Github" src="https://github.com/akshatmittal61/akshatmittal61/blob/master/src/images/alone.png?raw=true" />
-
 <br/>
 <summary><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 <h3 style=' font-size: 24px;'>
