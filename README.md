@@ -55,7 +55,7 @@
  <code><a href = "https://www.python.org"><img height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
  <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
 <br><br>
-	<summary><b>🏆 <h3>Github Achievements</h3></b></summary>
+	<summary><b>🏆 <h3>Github Achievements :</h3></b></summary>
 <p align="left" style='padding: -35px;' >
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=aniketkumar7&theme=gruvbox&column=6&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
