@@ -42,10 +42,10 @@
 </p>
 <br/>
 <summary><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-<h3 style=' font-size: 24px;'></h3></summary><br>
+<h3 style=' font-size: 24px;'></h3>
 	
 	
- #  Languages and Tools:
+ #  Languages and Tools:</summary><br>
 	
  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
