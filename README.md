@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm.**
 
-- 👯 I’m looking to collaborate on **open sources.**
+- 👯 I’m looking to collaborate on **Open Sources.**
 
 - 💬 Ask me about **HTML, CSS.** 
 
