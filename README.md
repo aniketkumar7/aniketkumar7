@@ -12,7 +12,6 @@
  <!-- <h3 align='center' style='margin: 16px 4px;'>
     <a href='http://127.0.0.1:5500/portfolio.html' target="blank">My Portfolio Website</a>
 </h3><br> -->
-
 ## 🔥 Profile Views :
   <img src="https://profile-counter.glitch.me/aniketkumar7/count.svg"/>
   
