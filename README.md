@@ -12,7 +12,7 @@
  <!-- <h3 align='center' style='margin: 16px 4px;'>
     <a href='http://127.0.0.1:5500/portfolio.html' target="blank">My Portfolio Website</a>
 </h3><br> -->
-🔥 <h2>Profile Views :</h2>
+<summary>🔥 <h2>Profile Views :</h2></summary>
   <img src="https://profile-counter.glitch.me/aniketkumar7/count.svg"/>
   
   <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="430" height="360">
