@@ -83,7 +83,9 @@
 	
 	
 	
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aniketkumar7&theme=merko)](https://github.com/aniketkumar7/github-readme-activity-graph)
+
+[![ankitmalik's github activity graph](https://github-graph.herokuapp.com/graph?username=aniketkumar7&hide_border=true&radius=15&theme=github-compact&hide_title=true&line=020712&color=3572A5&point=3572A5#gh-light-mode-only)](https://github.com/anthonyraf#gh-light-mode-only)
+
 	
 	
 	
