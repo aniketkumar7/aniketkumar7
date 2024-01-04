@@ -18,15 +18,24 @@
   <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="430" height="360">
   
 ###  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> More About Me:
+
+- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas❤
+
+- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
+
 - 🔭 I’m currently working <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> on **Web development projects.**
 
 - 🌱 I’m currently learning **Data Structure and Algorithm.**
 
-- 👯 I’m looking to collaborate on **Open Sources.**
+- 👯 I’m looking to collaborate on **Open Sources Projects.**
 
-- 💬 Ask me about **HTML, CSS.** 
+- 💬 Ask me about **HTML, CSS.**
+
+- 🔭 I’m Currently Studying in Pre-final Year
 
 - 📫 How to reach me **aniketkumar639597@gmail.com**
+
+- 🔗 Connect Me on Linkedin
 
 - ⚡ Fun fact **I think I am very serious person.** 
 
