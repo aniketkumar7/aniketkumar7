@@ -78,7 +78,7 @@
  <img height="80" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif">
 <br><br>
 <summary><img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1MzJmODEyM2Q5Yzk3OGRmYjRjYTQ1NDZhOWQ1Y2UwZDZiNjUxYjQxNTJjMzJhNGI0MDUzMjVmNTEyY2FlMzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.PQtM-CQVEZv69C8AWqY_pFEQ4rpEuo18js4M9Io3m5Q" width="40px">	
- # <h1>  Github Achievements : </h1></summary><br>
+<h1>  Github Achievements : </h1></summary><br>
 
 <p align="left" style='padding: -35px;' width="100%" >
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -106,7 +106,7 @@
     <img src="https://raw.githubusercontent.com/aniketkumar7/aniketkumar7/output/github-contribution-grid-snake-dark.svg" alt="Aniket Kumar Stats Snake" />
 </p>
 
-<summary align="center">
+<summary>
  <img src='https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif' width="100px"><h1> Connect with me :  </12>
 </summary>
 
