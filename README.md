@@ -1,8 +1,5 @@
-<p align='center' style='margin: 16px 5px 8px;'>
-    <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/greetings.gif?raw=true" alt="Hello World" />
-</p>
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1><br>
 <p align="center">
@@ -12,12 +9,16 @@
  <!-- <h3 align='center' style='margin: 16px 4px;'>
     <a href='http://127.0.0.1:5500/portfolio.html' target="blank">My Portfolio Website</a>
 </h3><br> -->
-<summary>🔥 <h2>Profile Views :</h2></summary>
-  <img src="https://profile-counter.glitch.me/aniketkumar7/count.svg"/>
+<summary> <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0OTIzZWEwMGNiZmExNDFiMjZiMGY4MDY4ZTQwNDk4ODYyMTU3NjcyYjljNGUwNTZiZjU3OTZhNTU2MzUxZDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.L_wQqv5_xemY12xpiNIxxKplpxRkJQ8MmYiUuIb9fXo" width="80" > <h1>Profile Views :</h1>
+  <img src="https://profile-counter.glitch.me/aniketkumar7/count.svg"/></summary>
   
-  <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="430" height="360">
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400" alt="Top Languages" />
+    <img src="" width="600" alt="GitHub Stats" />
+</p>
   
-###  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> More About Me:
+  
+<summary><img src="https://private-user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDctNDIwNzcwNDktMTkzOS00OTNlLTlhMTktNDdjYTVkYjM2NjQzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc3OGU5MDkxZjhmZTUwZjcxZjZjNzlkMmQwNGQyYzY2MWUwMzA5MTUwMGRkYzE2OGRjNjE0YmVlYTllY2JlOTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ytfA-Ho8NRfr5WCgXpLVnjZ5nG2k6sHXiIBYacFAIZ0" width="50" /> <h1>More About Me:</h1></summary>
 
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas❤
 
@@ -93,9 +94,11 @@
 ![3D Profile](profile-3d-contrib/profile-night-green.svg?sanitize=true)
 
 	
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github.com/aniketkumar7/aniketkumar7/blob/output/github-contribution-grid-snake-dark.svg" alt="aniket kumar stats snake" />
+<p align="center">
+    <img src="https://raw.githubusercontent.com/aniketkumar7/aniketkumar7/output/github-contribution-grid-snake-dark.svg" alt="Aniket Kumar Stats Snake" />
 </p>
+
+<br>
 <h2> Connect with me : <img src='https://raw.githubusercontent.com/aniketkumar7/aniketkumar7/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align="center" style='margin: 16px 4px 8px;'>  
