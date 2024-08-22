@@ -49,50 +49,48 @@
   <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp">
 </p>
 <br/>
-<summary><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-<h3 style=' font-size: 24px;'></h3>
+<summary><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px">
+<h3 style=' font-size: 24px;'></h3>	
 	
-	
- # <h2> Languages and Tools: </h2></summary><br>
-	
- <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
- <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
- <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
- <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-  <code><a href = "https://code.visualstudio.com/"><img height="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
- <code><a href = "https://www.python.org"><img height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
- <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
+ # <h1> Languages and Tools: </h1></summary><br>
+ 
+ 
+ <img height="80" src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM5MWIzZWIxYjdkYmM4ZmExMzc4NDY1NGUwYWJiMzM4Y2EwOWUwY2I4YzE2M2IxMzRmODFhZTgwMmYyNTRlMmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1KgvWLLgO2RhDlk9p6iiQpbD63Zlbpiefdj8A8Z2D-I">
+ <img height="80" src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgwYmQwNWUwOWFkODc3N2Q2ZTMxMTUyYmNjNGEwYzI2MjYyNTEwZDYzMDBhZjljYWNjZDc4OTBjZGUwM2MzMjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ftmVbuEYEqhpGznPBYQgwcrGGWD-JaDHUa6S6beVz3o"> 
+ <img height="80" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"> 
+ <img height="80" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
+ <img height="80" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif">
+ <img height="80" src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjAtMzk4YjE5YjEtOWFhZS00YzFmLThiYzAtZDE3MmEyYzA4ZDY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY4N2RhNjI3YzQ2NzcyMjQ1OGVjODVhMjFhMGYyYWNmM2Y4OWExYjA1YjY4NWJjYzRlYzZlZWMyNDk4Y2RhYjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.77j8TDNt9SbI3P43zKwmC5J3TwefrGQfm2f6vtxr2f4">
+ <img height="80" src="https://private-user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0NDEtMWE3OTdmNDYtZWZlNC00MWU2LTllNzUtNTMwM2UxYmJjYmZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE4MzUxMDJhZmQxYjc3MTA3ZjhlNDdlZjliYzJmZDhlNzJkZjQ4NGY5NzQ5ZDFlNjVkMmUwMWRjMDg4NmZiNTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.eEPoSQ9qfITdF_ZcrNDrLrXsbbAOnUXyj7PEjo_Gjr8">
+ <img height="80" src="https://private-user-images.githubusercontent.com/74038190/238200431-3c16d4f2-b757-4c70-8f42-43d5dddd2c36.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzEtM2MxNmQ0ZjItYjc1Ny00YzcwLThmNDItNDNkNWRkZGQyYzM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiMDZkOTAyZTUzZDFkY2VmNTE2NTgwNjlmNjc3Zjc1ZDEyNjZkMzkwY2ViMTEzMjA3Y2Q5ZTZmNzRjM2MwYzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.NQAxBRDRHuCRkrbXoV0vAaI_cjc-_ziNJahzO8OpwvI">
+ <img height="80" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"> 
+ <img height="80" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"> 
+ <img height="80" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
+ <img height="80" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif">
 <br><br>
-<summary><b>🏆 <h2>  Github Achievements :</h2></b></summary>
+<summary><img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1MzJmODEyM2Q5Yzk3OGRmYjRjYTQ1NDZhOWQ1Y2UwZDZiNjUxYjQxNTJjMzJhNGI0MDUzMjVmNTEyY2FlMzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.PQtM-CQVEZv69C8AWqY_pFEQ4rpEuo18js4M9Io3m5Q" width="40px">	
+ # <h1>  Github Achievements : </h1></summary><br>
+
 <p align="left" style='padding: -35px;' >
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=aniketkumar7&theme=gruvbox&column=6&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
     </a>
 </p>
 <summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <h2> Github Status <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> :</h2>
+	<img src = "https://private-user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDItNDA2ZWIzZTYtY2FiYS00MDFkLTkzYzgtZTBhNzk0MWM4NGI5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYzMWVmNmFjZTQ1MTNlMjdjMjliNzNiNzdkYjQ0ODJhZTgxYjk5MzE3ODNjODBmZmZmYWMyMjFiOTE2OWNjOGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.sN53lShM3CYUJGw2kRmTKiGTQVT5zjFTRsb0e9ewTEI" width = 45px>
+ 	<h1> Github Status  :</h1>
 </summary>
 <br/>
 
-<span>
-<p align="center" style='margin: 8px 4px;'>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketkumar7&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10"  width="500px" alt="aniketkumar7" />
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketkumar7&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" height="250" width="400" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aniketkumar7&show_icons=true&theme=dark" width="600" alt="GitHub Stats" />
 </p>
-   <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=aniketkumar7&show_icons=true&locale=en&theme=gruvbox" width="500px" alt="aniketkumar7" />
-</p>
-</span>
-</details><br><br/>
-
-
-
-![footer](https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/footer.webp)
-<br/><br><br/>	
 	
 
 
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
+![3D Profile](profile-3d-contrib/profile-night-green.svg?sanitize=true)
 
 	
 <p align="center" style='margin: 8px 4px;'>
