@@ -90,15 +90,15 @@
 ![footer](https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/footer.webp)
 <br/><br><br/>	
 	
-	
-	
 
-[![ankitmalik's github activity graph](https://github-graph.herokuapp.com/graph?username=aniketkumar7&hide_border=true&radius=15&theme=github-compact&hide_title=true&line=020712&color=3572A5&point=3572A5#gh-light-mode-only)](https://github.com/anthonyraf#gh-light-mode-only)
+
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
 
 	
-	
-	
-<h2> Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github.com/aniketkumar7/aniketkumar7/blob/output/github-contribution-grid-snake-dark.svg" alt="aniket kumar stats snake" />
+</p>
+<h2> Connect with me : <img src='https://raw.githubusercontent.com/aniketkumar7/aniketkumar7/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align="center" style='margin: 16px 4px 8px;'>  
     <a href="mailto:aniketkumar639597@gmail.com" target="blank" rel="noreferrer">
