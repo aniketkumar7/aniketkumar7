@@ -32,7 +32,7 @@
 
 - 💬 Ask me about ** HTML, CSS,JavaScript**, or anything else related to web development 🤔. I'm always happy to help and share my knowledge 📚
 
-- 🔭 I’m Currently Studying in Pre-final Year
+- 🔭 I’m Currently Studying in Final Year.📚
 
 - 📫 Want to get in touch? Reach me at **aniketkumar639597@gmail.com** or connect with me on 🔗 Connect Me on <a href="https://www.linkedin.com/in/aniketkumar07/" >Linkedin</a>
 
