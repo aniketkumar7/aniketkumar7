@@ -28,7 +28,7 @@
 </p>
 
 
-<summary style='display: flex; align-items: center;'> <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0OTIzZWEwMGNiZmExNDFiMjZiMGY4MDY4ZTQwNDk4ODYyMTU3NjcyYjljNGUwNTZiZjU3OTZhNTU2MzUxZDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.L_wQqv5_xemY12xpiNIxxKplpxRkJQ8MmYiUuIb9fXo" width="40" > <h1>Profile Views :</h1>
+<summary style='display: flex; align-items: center;'> <img src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png" width="40" > <h1>Profile Views :</h1>
   <img style="padding-top: 5px" src="https://profile-counter.glitch.me/aniketkumar7/count.svg"/></summary>
 
 <p>🚀 Hi, I'm a BTech Student in Computer Science at MIET, Meerut 🏫! I'm passionate about solving competitive coding challenges 💻 and exploring new tech stacks 🔍 to build innovative projects 🛠️. My heart lies in web development 🌐 and design 🎨, where I aim to craft stunning digital experiences that captivate audiences and drive impact 🌟. From UI/UX design 🖌️ to full-stack development 📈, I'm always excited to learn from others, share knowledge, and collaborate on exciting web projects 🤝! Let's connect and code together 💻👋, and create something amazing 🔥! 💬 Feel free to reach out and let's get started on a project that combines creativity and technology today! </p>
@@ -37,7 +37,7 @@
  <a href="https://play.kotlinlang.org"><img src="colored.png"  width="100%" alt="play.kotlinlang.org"/></a> 
 
   
-<summary><img src="https://private-user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDctNDIwNzcwNDktMTkzOS00OTNlLTlhMTktNDdjYTVkYjM2NjQzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc3OGU5MDkxZjhmZTUwZjcxZjZjNzlkMmQwNGQyYzY2MWUwMzA5MTUwMGRkYzE2OGRjNjE0YmVlYTllY2JlOTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ytfA-Ho8NRfr5WCgXpLVnjZ5nG2k6sHXiIBYacFAIZ0" width="40" /> <h1>More About Me:</h1></summary>
+<summary><img src="https://user-images.githubusercontent.com/74038190/216653728-5f452bd4-f1b8-401e-a337-f6fbae9d493a.gif" width="40" /> <h1>More About Me:</h1></summary>
 
 - 🔭 I’m currently working on `Something Intresting`.
 
@@ -160,8 +160,7 @@ const Aniket = {
 
 
 
-<img src = "https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width = 40px>
- <h2> Github Status  :</h2>
+<img src = "https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width = 40px><h2> Github Status  :</h2>
 
 <br/>
 
