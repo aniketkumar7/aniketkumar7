@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there! I'm Aniket Kumar, a passionate coder 🚀</h1>
+<h1 align="center">👋 Hey there! I'm Aniket Kumar</h1>
 
 
 
@@ -31,10 +31,10 @@
 <summary style='display: flex; align-items: center;'> <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0OTIzZWEwMGNiZmExNDFiMjZiMGY4MDY4ZTQwNDk4ODYyMTU3NjcyYjljNGUwNTZiZjU3OTZhNTU2MzUxZDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.L_wQqv5_xemY12xpiNIxxKplpxRkJQ8MmYiUuIb9fXo" width="40" > <h1>Profile Views :</h1>
   <img style="padding-top: 5px" src="https://profile-counter.glitch.me/aniketkumar7/count.svg"/></summary>
 
-<h4>🚀 Hi, I'm a BTech Student in Computer Science at MIET, Meerut 🏫! I'm passionate about solving competitive coding challenges 💻 and exploring new tech stacks 🔍 to build innovative projects 🛠️. My heart lies in web development 🌐 and design 🎨, where I aim to craft stunning digital experiences that captivate audiences and drive impact 🌟. From UI/UX design 🖌️ to full-stack development 📈, I'm always excited to learn from others, share knowledge, and collaborate on exciting web projects 🤝! Let's connect and code together 💻👋, and create something amazing 🔥! 💬 Feel free to reach out and let's get started on a project that combines creativity and technology today 📈! </h4><br>
+<p>🚀 Hi, I'm a BTech Student in Computer Science at MIET, Meerut 🏫! I'm passionate about solving competitive coding challenges 💻 and exploring new tech stacks 🔍 to build innovative projects 🛠️. My heart lies in web development 🌐 and design 🎨, where I aim to craft stunning digital experiences that captivate audiences and drive impact 🌟. From UI/UX design 🖌️ to full-stack development 📈, I'm always excited to learn from others, share knowledge, and collaborate on exciting web projects 🤝! Let's connect and code together 💻👋, and create something amazing 🔥! 💬 Feel free to reach out and let's get started on a project that combines creativity and technology today! </p>
 
 
-  
+ <a href="https://play.kotlinlang.org"><img src="colored.png"  width="100%" alt="play.kotlinlang.org"/></a> 
 
   
 <summary><img src="https://private-user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDctNDIwNzcwNDktMTkzOS00OTNlLTlhMTktNDdjYTVkYjM2NjQzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc3OGU5MDkxZjhmZTUwZjcxZjZjNzlkMmQwNGQyYzY2MWUwMzA5MTUwMGRkYzE2OGRjNjE0YmVlYTllY2JlOTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ytfA-Ho8NRfr5WCgXpLVnjZ5nG2k6sHXiIBYacFAIZ0" width="40" /> <h1>More About Me:</h1></summary>
@@ -57,7 +57,13 @@
 
 - ⚡ Fun fact: I waste most of my time playing games
 
-#### A little more about me
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="350" height="350" />
+</p>
+
+
+#### 👨‍💻 A little more about me
+
 ```javascript
 const Aniket = {
   pronouns: "He" | "Him",
@@ -77,21 +83,25 @@ const Aniket = {
 }
 ```
 
+
+
+
+
 <!-- <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp">
 <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketkumar7&theme=dark&hide_border=true"/> -->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <br>
 	
-<div style="display: flex; justify-content: space-between; gap: 5px;">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="250" height="250" />
+<div>
     
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketkumar7&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" width="500" height="250" alt="Top Languages" />
   
   <img src="https://github.com/aniketkumar7/aniketkumar7/blob/main/octocat-1724296732039.png" width="250" alt="GitHub Stats" />
 </div>
 <br/>
+
+
 
 
  
@@ -130,13 +140,14 @@ const Aniket = {
 
 
 
+
 <summary>
 	<img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1MzJmODEyM2Q5Yzk3OGRmYjRjYTQ1NDZhOWQ1Y2UwZDZiNjUxYjQxNTJjMzJhNGI0MDUzMjVmNTEyY2FlMzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.PQtM-CQVEZv69C8AWqY_pFEQ4rpEuo18js4M9Io3m5Q" width="40px">	
-	<h1>  Github Achievements : </h1>
+	<h2>  Github Achievements : </h2>
 </summary>
 <br>
 
-
+<a href="https://play.kotlinlang.org"><img src="colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
 
 <p align="left" style='padding: -55px;' width="100%" >
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -147,11 +158,16 @@ const Aniket = {
 
 
 
+
+
+
+
 <summary>
-	<img src = "https://private-user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDItNDA2ZWIzZTYtY2FiYS00MDFkLTkzYzgtZTBhNzk0MWM4NGI5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYzMWVmNmFjZTQ1MTNlMjdjMjliNzNiNzdkYjQ0ODJhZTgxYjk5MzE3ODNjODBmZmZmYWMyMjFiOTE2OWNjOGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.sN53lShM3CYUJGw2kRmTKiGTQVT5zjFTRsb0e9ewTEI" width = 45px>
- 	<h1> Github Status  :</h1>
+	<img src = "https://private-user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDItNDA2ZWIzZTYtY2FiYS00MDFkLTkzYzgtZTBhNzk0MWM4NGI5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYzMWVmNmFjZTQ1MTNlMjdjMjliNzNiNzdkYjQ0ODJhZTgxYjk5MzE3ODNjODBmZmZmYWMyMjFiOTE2OWNjOGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.sN53lShM3CYUJGw2kRmTKiGTQVT5zjFTRsb0e9ewTEI" width = 40px>
+ 	<h2> Github Status  :</h2>
 </summary>
 <br/>
+
 
 <a href="https://github.com/Aleksey-Voko?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=aniketkumar7&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats"/></a>
 <a href="https://github.com/Aleksey-Voko?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=aniketkumar7&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats"/></a>
@@ -164,17 +180,19 @@ const Aniket = {
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketkumar7&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" height="250" width="400" alt="Top Languages" />
     <img src="https://github-readme-stats.vercel.app/api?username=aniketkumar7&show_icons=true&theme=dark" width="600" alt="GitHub Stats" />
 </p>
-<p align="center">-->
+-->
 
-</p>
 
-<a href="https://play.kotlinlang.org"><img src="./assets/colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
+<a href="https://play.kotlinlang.org"><img src="colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
 
+
+
+<!-- activity graph heroku-app start -->
 <summary>
 	<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px">
-	<h1> Activity Graph: </h1>
+	<h2> Activity Graph: </h2>
 </summary><br>
-<!-- activity graph heroku-app start -->
+
 <p>
     <a href="https://wakatime.com/@Voko#gh-dark-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketkumar7&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
@@ -186,42 +204,54 @@ const Aniket = {
 	
 
 
+
+
 ![3D Profile](profile-3d-contrib/profile-night-green.svg?sanitize=true)
 
-### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
+## 🚀 My contributions! snake <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> 
 
 <p>
     <img src="https://raw.githubusercontent.com/aniketkumar7/aniketkumar7/output/github-contribution-grid-snake-dark.svg" alt="Aniket Kumar Stats Snake" />
 </p>
 
+
+
+
+
+
 <summary>
- <img src='https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif' width="100px"><h1> Connect with me :  </12>
+ <img src='https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif' width="80px"><h2> Connect with me :  </h2>
 </summary>
 <br>
-
-
   
-<p styel='display: flex; gap: 5px;'>  
-    <a href="mailto:aniketkumar639597@gmail.com" target="blank" rel="noreferrer" style='margin: 8px 15px;'>
-    <img  src="https://skillicons.dev/icons?i=gmail" alt="mailto:aniketkumar639597@gmail.com" height="70" width="70" style='margin: 8px 15px; />
+<p styel='display: flex; gap: 2px;'>  
+    <a href="mailto:aniketkumar639597@gmail.com" target="blank" rel="noreferrer">
+    <img  src="https://skillicons.dev/icons?i=gmail" alt="mailto:aniketkumar639597@gmail.com" height="60" width="60" />
     </a>
-    <a href="https://www.linkedin.com/in/aniket-kumar-a850a122b" target="blank" rel="noreferrer" style='margin: 8px 15px;>
-        <img style='margin: 8px 12px 8px 2px;' src="https://skillicons.dev/icons?i=linkedin" height="60" width="60" style='margin: 8px 15px; />
+    <a href="https://www.linkedin.com/in/aniket-kumar-a850a122b" target="blank" rel="noreferrer">
+        <img  src="https://skillicons.dev/icons?i=linkedin" height="60" width="60"  />
     </a>
     <a href="https://www.linkedin.com/in/discord" target="blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height="60" width="60" />
     </a>
     <a href="https://www.instagram.com/aniketrajput_007/" target="blank" rel="noreferrer">
-        <img style='margin: 8px 12px 8px 2px;' src="https://skillicons.dev/icons?i=instagram" alt="https://instagram.com/aniketrajput_007/" height="60" width="60"  />
+        <img  src="https://skillicons.dev/icons?i=instagram" alt="https://instagram.com/aniketrajput_007/" height="60" width="60"  />
     </a>
     <a href="https://www.youtube.com/channel/UCcvpwbwfY5pkTSV7cjtehJw" target="blank" rel="noreferrer">
-        <img style='margin: 8px 12px 8px 2px;' src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="https://www.youtube.com/c/aniketkumar" height="60" width="60" />
+        <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="https://www.youtube.com/c/aniketkumar" height="60" width="60" />
     </a>  
 </p>
 
-	
+
+
+<!--	
 <p align="center" style='margin: 8px 0px;'>
     <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlmMzQ5Yzc3Zjc3MGY4YzQwMTBhZGY1ODNhMDA2ZjlmYTkzODhiNmRkYWQ0NjU0Y2U5NDY5MzliMzVhZjFmNGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.dkIVoW_LSl3ZK30bjuVc-ivlQN_qGRrcGb8fLBMtwUs" alt="utkarshpathrabe" />
+</p>-->
+  <p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
 </p>
 <br>
 <div>
