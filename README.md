@@ -141,10 +141,10 @@ const Aniket = {
 
 
 
-<summary>
-	<img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1MzJmODEyM2Q5Yzk3OGRmYjRjYTQ1NDZhOWQ1Y2UwZDZiNjUxYjQxNTJjMzJhNGI0MDUzMjVmNTEyY2FlMzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.PQtM-CQVEZv69C8AWqY_pFEQ4rpEuo18js4M9Io3m5Q" width="40px">	
+<div style="display: flex;">
+	<img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="40px">	
 	<h2>  Github Achievements : </h2>
-</summary>
+</div>
 <br>
 
 <a href="https://play.kotlinlang.org"><img src="colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
