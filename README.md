@@ -141,13 +141,11 @@ const Aniket = {
 
 
 
-<div style="display: flex;">
+<p style="display: flex;">
 	<img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="40px">	
 	<h2>  Github Achievements : </h2>
-</div>
+</p>
 <br>
-
-<a href="https://play.kotlinlang.org"><img src="colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
 
 <p align="left" style='padding: -55px;' width="100%" >
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -162,10 +160,9 @@ const Aniket = {
 
 
 
-<summary>
-	<img src = "https://private-user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDItNDA2ZWIzZTYtY2FiYS00MDFkLTkzYzgtZTBhNzk0MWM4NGI5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYzMWVmNmFjZTQ1MTNlMjdjMjliNzNiNzdkYjQ0ODJhZTgxYjk5MzE3ODNjODBmZmZmYWMyMjFiOTE2OWNjOGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.sN53lShM3CYUJGw2kRmTKiGTQVT5zjFTRsb0e9ewTEI" width = 40px>
- 	<h2> Github Status  :</h2>
-</summary>
+<img src = "https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width = 40px>
+ <h2> Github Status  :</h2>
+
 <br/>
 
 
