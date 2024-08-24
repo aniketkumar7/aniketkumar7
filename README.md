@@ -141,10 +141,10 @@ const Aniket = {
 
 
 
-<p style="display: flex;">
+<summary>
 	<img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="40px">	
 	<h2>  Github Achievements : </h2>
-</p>
+</summary>
 <br>
 
 <p align="left" style='padding: -55px;' width="100%" >
@@ -159,9 +159,10 @@ const Aniket = {
 
 
 
-
-<img src = "https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width = 40px><h2> Github Status  :</h2>
-
+<summary>
+	<img src = "https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width = 40px>
+	<h2> Github Status  :</h2>
+</summary>
 <br/>
 
 
