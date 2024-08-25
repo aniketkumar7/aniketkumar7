@@ -18,9 +18,11 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aniketkumar7?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/aniketkumar7?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/aniketkumar7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+	
+[![Website](https://img.shields.io/website?label=aniket.kumar&style=for-the-badge&url=https://my-portfolio-aniketkumar7s-projects.vercel.app/)](https://my-portfolio-aniketkumar7s-projects.vercel.app/)
 </p>
 
-
+[website]: [https://my-portfolio-aniketkumar7s-projects.vercel.app/]
 
 
 <p align="center">
