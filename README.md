@@ -18,6 +18,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aniketkumar7?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/aniketkumar7?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/aniketkumar7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://my-portfolio-aniketkumar7s-projects.vercel.app/">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/website?label=aniket.kumar&style=for-the-badge&url=https://my-portfolio-aniketkumar7s-projects.vercel.app/"/></a>
 	
 </p>
@@ -35,7 +36,7 @@
 <p>🚀 Hi, I'm a BTech Student in Computer Science at MIET, Meerut 🏫! I'm passionate about solving competitive coding challenges 💻 and exploring new tech stacks 🔍 to build innovative projects 🛠️. My heart lies in web development 🌐 and design 🎨, where I aim to craft stunning digital experiences that captivate audiences and drive impact 🌟. From UI/UX design 🖌️ to full-stack development 📈, I'm always excited to learn from others, share knowledge, and collaborate on exciting web projects 🤝! Let's connect and code together 💻👋, and create something amazing 🔥! 💬 Feel free to reach out and let's get started on a project that combines creativity and technology today! </p>
 
 
- <a href="https://play.kotlinlang.org"><img src="colored.png"  width="100%" alt="play.kotlinlang.org"/></a> 
+
 
   
 <summary><img src="https://user-images.githubusercontent.com/74038190/216653728-5f452bd4-f1b8-401e-a337-f6fbae9d493a.gif" width="40" /> <h1>More About Me:</h1></summary>
@@ -181,8 +182,6 @@ const Aniket = {
 -->
 
 
-<a href="https://play.kotlinlang.org"><img src="colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
-
 
 
 <!-- activity graph heroku-app start -->
@@ -220,23 +219,22 @@ const Aniket = {
 <summary>
  <img src='https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif' width="80px"><h2> Connect with me :  </h2>
 </summary>
-<br>
   
-<p styel='display: flex; gap: 2px;'>  
+<p style='display: flex; gap: 2px;'>  
     <a href="mailto:aniketkumar639597@gmail.com" target="blank" rel="noreferrer">
-    <img  src="https://skillicons.dev/icons?i=gmail" alt="mailto:aniketkumar639597@gmail.com" height="60" width="60" />
+    <img  src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=red" alt="mailto:aniketkumar639597@gmail.com" />
     </a>
     <a href="https://www.linkedin.com/in/aniket-kumar-a850a122b" target="blank" rel="noreferrer">
-        <img  src="https://skillicons.dev/icons?i=linkedin" height="60" width="60"  />
+        <img  src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=LinkedIn&logoColor=blue" />
     </a>
-    <a href="https://www.linkedin.com/in/discord" target="blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height="60" width="60" />
+    <a href="https://discordapp.com/users/aniketkumar007" target="blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Discord-%2312100E.svg?&style=for-the-badge&logo=Discord&logoColor=purple" />
     </a>
     <a href="https://www.instagram.com/aniketrajput_007/" target="blank" rel="noreferrer">
-        <img  src="https://skillicons.dev/icons?i=instagram" alt="https://instagram.com/aniketrajput_007/" height="60" width="60"  />
+        <img  src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=blue" alt="https://instagram.com/aniketrajput_007/"  />
     </a>
     <a href="https://www.youtube.com/channel/UCcvpwbwfY5pkTSV7cjtehJw" target="blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="https://www.youtube.com/c/aniketkumar" height="60" width="60" />
+        <img src="https://img.shields.io/badge/YouTube-%2312100E.svg?&style=for-the-badge&logo=YouTube&logoColor=red" alt="https://www.youtube.com/c/aniketkumar" />
     </a>  
 </p>
 
@@ -284,4 +282,4 @@ const Aniket = {
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
-<hr>
+ <a href="https://play.kotlinlang.org"><img src="colored.png"  width="100%" alt="play.kotlinlang.org"/></a> 
