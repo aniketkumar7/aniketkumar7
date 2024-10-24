@@ -49,7 +49,7 @@
 
 - 🌱 I’m currently learning `Data Structure and Algorithm `and I'm excited to apply these skills to real-world problems and projects 📊
 
-- 👯 I’m a final year student looking to collaborate for `Dev Projects` that align with my interests and values 🤝. If you have a project in mind, let's connect and work together 💻
+- 👯 I’m a final year student looking to collaborate for `Dev Projects` that align with my interests and values 🤝.
 
 - 💬 Ask me about `HTML, CSS,JavaScript`, or anything else related to web development 🤔. I'm always happy to help and share my knowledge 📚
 
