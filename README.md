@@ -33,7 +33,7 @@
 <summary style='display: flex; align-items: center;'> <img src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png" width="40" > <h1>Profile Views :</h1>
   <img style="padding-top: 5px" src="https://profile-counter.glitch.me/aniketkumar7/count.svg"/></summary>
 
-<p>🚀 Hi, I'm a BTech Student in Computer Science at MIET, Meerut 🏫! I'm passionate about solving competitive coding challenges 💻 and exploring new tech stacks 🔍 to build innovative projects 🛠️. My heart lies in web development 🌐 and design 🎨, where I aim to craft stunning digital experiences that captivate audiences and drive impact 🌟. From UI/UX design 🖌️ to full-stack development 📈, I'm always excited to learn from others, share knowledge, and collaborate on exciting web projects 🤝! Let's connect and code together 💻👋, and create something amazing 🔥! 💬 Feel free to reach out and let's get started on a project that combines creativity and technology today! </p>
+<p>🚀 Hi, I'm a BTech Student in Computer Science at MIET, Meerut 🏫! I'm passionate about solving competitive coding challenges 💻 and exploring new tech stacks 🔍 to build innovative projects 🛠️. From UI/UX design 🖌️ to full-stack development 📈, I'm always excited to learn from others, share knowledge, and collaborate on exciting web projects 🤝! Let's connect and code together 💻👋, and create something amazing 🔥! 💬 Feel free to reach out and let's get started on a project that combines creativity and technology today! </p>
 
 
 
