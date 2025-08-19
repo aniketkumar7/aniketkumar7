@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hey there! I'm Aniket Kumar</h1>
+<!-- <h1 align="center">👋 Hey there! I'm Aniket Kumar</h1> -->
 
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aniketkumar7&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;FrontEnd+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;FrontEnd+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a> -->
 </p>
 
 
@@ -30,12 +30,9 @@
 </p>
 
 
-<summary style='display: flex; align-items: center;'> <img src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png" width="40" > <h1>Profile Views :</h1>
-  <img style="padding-top: 5px" src="https://profile-counter.glitch.me/aniketkumar7/count.svg"/></summary>
+<summary style='display: flex; align-items: center;'> <img src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png" width="40" >
 
 <p>🚀 Hi, I'm a BTech Student in Computer Science at MIET, Meerut 🏫! I'm passionate about solving competitive coding challenges 💻 and exploring new tech stacks 🔍 to build innovative projects 🛠️. From UI/UX design 🖌️ to full-stack development 📈, I'm always excited to learn from others, share knowledge, and collaborate on exciting web projects 🤝! Let's connect and code together 💻👋, and create something amazing 🔥! 💬 Feel free to reach out and let's get started on a project that combines creativity and technology today! </p>
-
-
 
 
   
@@ -60,87 +57,30 @@
 - ⚡ Fun fact: I waste most of my time playing games
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="350" height="350" />
+<!-- 	<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="350" height="350" /> -->
 </p>
-
-
-#### 👨‍💻 A little more about me
-
-```javascript
-const Aniket = {
-  pronouns: "He" | "Him",
-  age: 15 ,
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python" ],
-  technologies: {
-      frontend: {
-          js: ["React JS", "Javascript" ],
-          css: ["Tailwind CSS", "CSS"]
-      },
-      codeEditor: {
-          competitiveProgramming: ["VS Code"],
-          frontEndDev: ["VS Code"]
-      }
-  }
-}
-```
-
 
 
 
 
 <!-- <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp">
 <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketkumar7&theme=dark&hide_border=true"/> -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketkumar7&theme=dark&hide_border=true"/> 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-<br>
-	
-<div>
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketkumar7&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" width="500" height="250" alt="Top Languages" />
-  
-  <img src="https://github.com/aniketkumar7/aniketkumar7/blob/main/octocat-1724296732039.png" width="250" alt="GitHub Stats" />
+<br>-->
+
+<div  style="display: flex; justify-content: space-between; width: 100%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniketkumar7&theme=dark" width="500" />
+  <img src="https://github.com/aniketkumar7/aniketkumar7/blob/main/octocat-1724296732039.png" width="350" />
 </div>
-<br/>
-
-
-
 
  
 <summary>
 	<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px">
 	<h2> Languages and Tools: </h2>
 </summary><br>
- <div style=" display: flex;">
- <img height="80" src="https://skillicons.dev/icons?i=cpp"> 
- <img height="80" src="https://skillicons.dev/icons?i=c"> 
- <img height="80" src="https://skillicons.dev/icons?i=java"> 
- <img height="80" src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM5MWIzZWIxYjdkYmM4ZmExMzc4NDY1NGUwYWJiMzM4Y2EwOWUwY2I4YzE2M2IxMzRmODFhZTgwMmYyNTRlMmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1KgvWLLgO2RhDlk9p6iiQpbD63Zlbpiefdj8A8Z2D-I">
- <img height="80" src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgwYmQwNWUwOWFkODc3N2Q2ZTMxMTUyYmNjNGEwYzI2MjYyNTEwZDYzMDBhZjljYWNjZDc4OTBjZGUwM2MzMjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ftmVbuEYEqhpGznPBYQgwcrGGWD-JaDHUa6S6beVz3o"> 
- <img height="80" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"> 
- <img height="80" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
- <img height="80" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif">
- <img height="80" src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjAtMzk4YjE5YjEtOWFhZS00YzFmLThiYzAtZDE3MmEyYzA4ZDY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY4N2RhNjI3YzQ2NzcyMjQ1OGVjODVhMjFhMGYyYWNmM2Y4OWExYjA1YjY4NWJjYzRlYzZlZWMyNDk4Y2RhYjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.77j8TDNt9SbI3P43zKwmC5J3TwefrGQfm2f6vtxr2f4">
- <img height="80" src="https://private-user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0NDEtMWE3OTdmNDYtZWZlNC00MWU2LTllNzUtNTMwM2UxYmJjYmZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE4MzUxMDJhZmQxYjc3MTA3ZjhlNDdlZjliYzJmZDhlNzJkZjQ4NGY5NzQ5ZDFlNjVkMmUwMWRjMDg4NmZiNTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.eEPoSQ9qfITdF_ZcrNDrLrXsbbAOnUXyj7PEjo_Gjr8">
- <img height="80" src="https://private-user-images.githubusercontent.com/74038190/238200431-3c16d4f2-b757-4c70-8f42-43d5dddd2c36.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIxMDQsIm5iZiI6MTcyNDI5MTgwNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzEtM2MxNmQ0ZjItYjc1Ny00YzcwLThmNDItNDNkNWRkZGQyYzM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiMDZkOTAyZTUzZDFkY2VmNTE2NTgwNjlmNjc3Zjc1ZDEyNjZkMzkwY2ViMTEzMjA3Y2Q5ZTZmNzRjM2MwYzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.NQAxBRDRHuCRkrbXoV0vAaI_cjc-_ziNJahzO8OpwvI">
- <img height="80" src="https://skillicons.dev/icons?i=figma"> 
- <img height="80" src="https://skillicons.dev/icons?i=devto"> 
- <img height="80" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"> 
- <img height="80" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"> 
- <img height="80" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
- <img height="80" src="https://skillicons.dev/icons?i=mysql">
- <img height="80" src="https://skillicons.dev/icons?i=notion">
- <img height="80" src="https://skillicons.dev/icons?i=redux">
- <img height="80" src="https://skillicons.dev/icons?i=replit">
- <img height="80" src="https://skillicons.dev/icons?i=tailwind">
- <img height="80" src="https://skillicons.dev/icons?i=vite">
- <img height="80" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif">
- </div>
-<br><br>
 
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,react,tailwind,redux,typescript,python,mysql,mongodb,nodejs,notion,devto,replit,figma,vite,codepen,git,github,vscode,aws,&perline=12)](https://skillicons.dev)
 
 
 <summary>
