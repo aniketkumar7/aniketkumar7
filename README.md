@@ -70,7 +70,7 @@
 <br>-->
 
 <div  style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniketkumar7&theme=dark" width="500" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniketkumar7&theme=dark" width="400" />
   <img src="https://github.com/aniketkumar7/aniketkumar7/blob/main/octocat-1724296732039.png" width="350" />
 </div>
 
