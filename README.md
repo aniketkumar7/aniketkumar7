@@ -89,17 +89,9 @@
 </summary>
 <br>
 
-<p align="left" style='padding: -55px;' width="100%" >
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=aniketkumar7&theme=darkhub&column=6&margin-w=20&margin-h=20&no-frame=true" alt="github profile stats" />
-    </a>
-</p>
 
-
-
-
-
-
+![](https://github-trophies.vercel.app/?username=aniketkumar7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aniketkumar7&theme=onedark)](https://github.com/krishyadav90/github-profile-trophy)
 
 <summary>
 	<img src = "https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width = 40px>
