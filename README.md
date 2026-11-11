@@ -110,8 +110,8 @@ const aniket = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=aniketkumar7&title=MultiLanguage,LongTimeUser,Commits,Repositories,Stars,PullRequest,Followers&column=7&margin-w=10&no-frame=true&no-bg=true&theme=tokyonight" />
-    <img src="https://github-trophies.vercel.app/?username=aniketkumar7&title=MultiLanguage,LongTimeUser,Commits,Repositories,Stars,PullRequest,Followers&column=7&margin-w=10&no-frame=true&no-bg=true&theme=flat" alt="GitHub trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=aniketkumar7&title=MultiLanguage%2CLongTimeUser%2CCommits%2CRepositories%2CStars%2CPullRequest%2CFollowers&column=7&margin-w=10&no-frame=true&no-bg=true&theme=tokyonight" />
+    <img src="https://github-trophies.vercel.app/?username=aniketkumar7&title=MultiLanguage%2CLongTimeUser%2CCommits%2CRepositories%2CStars%2CPullRequest%2CFollowers&column=7&margin-w=10&no-frame=true&no-bg=true&theme=flat" alt="GitHub trophies" />
   </picture>
 </div>
 
