@@ -70,17 +70,31 @@ const aniket = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=aniketkumar7&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=aniketkumar7&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=2563eb&icon_color=2563eb" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=aniketkumar7&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=aniketkumar7&layout=compact&langs_count=8&hide_border=true&title_color=2563eb" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketkumar7&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketkumar7&theme=github" width="100%" alt="Profile details" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aniketkumar7&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&stroke=30363d&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9" />
-  <img src="https://streak-stats.demolab.com?user=aniketkumar7&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="GitHub streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aniketkumar7&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aniketkumar7&theme=github" width="49%" alt="Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aniketkumar7&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aniketkumar7&theme=github&utcOffset=5.5" width="49%" alt="Commits by hour" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniketkumar7&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniketkumar7&theme=github" width="49%" alt="Top languages by repo" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniketkumar7&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniketkumar7&theme=github" width="49%" alt="Top languages by commit" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aniketkumar7&theme=tokyonight&hide_border=true&background=1a1b27" />
+  <img src="https://streak-stats.demolab.com?user=aniketkumar7&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" width="60%" alt="GitHub streak" />
 </picture>
 
 <br/><br/>
@@ -95,7 +109,10 @@ const aniket = {
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=aniketkumar7&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=8" alt="GitHub trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=aniketkumar7&title=MultiLanguage,LongTimeUser,Commits,Repositories,Stars,PullRequest,Followers&column=7&margin-w=10&no-frame=true&no-bg=true&theme=tokyonight" />
+    <img src="https://github-trophies.vercel.app/?username=aniketkumar7&title=MultiLanguage,LongTimeUser,Commits,Repositories,Stars,PullRequest,Followers&column=7&margin-w=10&no-frame=true&no-bg=true&theme=flat" alt="GitHub trophies" />
+  </picture>
 </div>
 
 ## 🐍 Contribution snake
