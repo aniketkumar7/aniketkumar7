@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-amber.svg",
+  "backgroundColor": "#0b0e14",
+  "foregroundColor": "#e6edf3",
+  "strongColor": "#ffb340",
+  "weakColor": "#8b949e",
+  "radarColor": "#ffb340",
+  "growingAnimation": true,
+  "contribColors": ["#171c26", "#4a3108", "#8a5a0c", "#d48b12", "#ffb84d"]
+}

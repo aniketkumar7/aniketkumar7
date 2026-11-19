@@ -4,21 +4,25 @@ on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["profile-3d-amber.json"]
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
+          SETTING_JSON: profile-3d-amber.json
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh 3D contribution city [skip ci]"
+          file_pattern: "profile-3d-contrib/*.svg"
