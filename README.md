@@ -12,7 +12,7 @@
 <img src="./cards/title-projects.svg" width="100%" alt="What I've built" /><br>
 <a href="https://github.com/aniketkumar7/LinkVault"><img src="./cards/repo-1.svg" width="33.333%" alt="LinkVault" /></a><a href="https://github.com/aniketkumar7/Tydo"><img src="./cards/repo-2.svg" width="33.333%" alt="Tydo" /></a><a href="https://kaarigar-studio-mu.vercel.app"><img src="./cards/repo-3.svg" width="33.333%" alt="Kaarigar Studio" /></a><br>
 <a href="https://github.com/aniketkumar7/NETFLIX_GPT"><img src="./cards/repo-4.svg" width="50%" alt="Netflix GPT" /></a><a href="https://github.com/aniketkumar7/Modern_Portfolio"><img src="./cards/repo-5.svg" width="50%" alt="Modern Portfolio" /></a><br>
-<img src="./profile-3d-contrib/profile-amber.svg" width="100%" alt="3D contribution city" /><br>
+<img src="./profile-3d-contrib/profile-city.svg" width="100%" alt="3D contribution city" /><br>
 <img src="./cards/connect-scene.svg" width="100%" alt="Let's build something" /><br>
 <a href="https://modern-portfolio-peach-ten.vercel.app/"><img src="./cards/link-portfolio.svg" width="25%" alt="Portfolio" /></a><a href="mailto:aniketkumar639597@gmail.com"><img src="./cards/link-email.svg" width="25%" alt="Email" /></a><a href="https://www.linkedin.com/in/aniketkumar07/"><img src="./cards/link-linkedin.svg" width="25%" alt="LinkedIn" /></a><a href="https://www.youtube.com/channel/UCcvpwbwfY5pkTSV7cjtehJw"><img src="./cards/link-youtube.svg" width="25%" alt="YouTube" /></a>
 </div>
